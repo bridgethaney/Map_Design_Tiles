@@ -73,7 +73,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 
 ## Acknowledgements
 
-Used a snippet of code from cmulders on Github to remove white grid lines between tiles that are visible on browsers for the Map 4. Special Theme: Times Square Neon map. This issue is has been experienced by several users when making tiles maps in Leaflet. I am also using some snippets of code written by Bo Zhao for GEOG 458 Lab 4.
+Used a snippet of code from cmulders on Github to remove white grid lines between tiles that are visible on browsers for the Map 4. Special Theme: Times Square Neon map. This issue has been experienced by several users when making tiles maps in Leaflet. I am also using some snippets of code written by Bo Zhao for GEOG 458 Lab 4.
 
 ## Sources
 
