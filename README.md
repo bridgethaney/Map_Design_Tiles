@@ -73,7 +73,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 
 ## Acknowledgements
 
-Used a snippet of code from cmulders on Github to remove white grid line bug that was visible on all browsers for the Map 4. Special Theme: Times Square Neon map. I am also using some snippets of code written by Bo Zhao for GEOG 458 Lab 4.
+Used a snippet of code from cmulders on Github to remove white grid lines between tiles that are visible on browsers for the Map 4. Special Theme: Times Square Neon map. This issue is has been experienced by several users when making tiles maps in Leaflet. I am also using some snippets of code written by Bo Zhao for GEOG 458 Lab 4.
 
 ## Sources
 
@@ -83,4 +83,4 @@ School Cafeteria Inspection Data: [NYC OpenData](data.cityofnewyork.us/Health/DO
 
 Lab 4 - Tutorial and Snippets of Code: [GEOG 458 Lab 4](https://github.com/jakobzhao/geog458/tree/master/labs/lab04)
 
-White Grid Line Bug Removal: [cmulders](https://gist.github.com/cmulders/acbbe8a8ff170e34c37b)
+White Grid Line Bug/Tile Space Removal Code: [cmulders](https://gist.github.com/cmulders/acbbe8a8ff170e34c37b)
