@@ -1,7 +1,7 @@
 # Visualizations of New York City and surrounding New York Boroughs
 
 
-# Interactive Map Link
+## Interactive Map Link
 
 https://bridgethaney.github.io/Map_Design_Tiles
 
