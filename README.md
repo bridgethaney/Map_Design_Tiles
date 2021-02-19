@@ -70,7 +70,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 - tiles_assets: Contains the tile images
 - tiles_html_files: Contains the html files of the tiles
 
-## Acknowledgement
+## Acknowledgements
 
 Used a snippet of code from cmulders on Github to remove white grid line bug that was visible on all browsers for the Map 4. Special Theme: Times Square Neon map. I am also using some snippets of code written by Bo Zhao for GEOG 458 Lab 4.
 
