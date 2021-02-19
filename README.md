@@ -12,7 +12,9 @@ https://bridgethaney.github.io/Map_Design_Tiles
 
 ### Explanation
 
-This basemap was created in Mapbox and displays the greater New York City area. It includes a light green and blue color scheme with small icons to reflect relevant cities, bouroughs, and smaller neighborhoods. 
+This basemap was created in Mapbox and displays the greater New York City area. It includes a light green and blue color scheme with small icons to reflect relevant cities, bouroughs, and smaller neighborhoods.
+
+The area of focus is New York City and surrounding areas.
 
 ### Zoom Level
 
@@ -30,6 +32,8 @@ I found this data interesting, as I haven't explored any data like this. The hea
 
 This featured data can be found at this [source](https://data.cityofnewyork.us/Health/DOHMH-School-Cafeteria-inspections/9hxz-c2kj).
 
+The area of focus is New York City and surrounding areas.
+
 ### Zoom Level
 
 The minimum zoom level is 10, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing.
@@ -40,7 +44,7 @@ The minimum zoom level is 10, while the maximum is 14. This ensures that there i
 
 ### Explanation
 
-This map, in particular, combines both the Basemap found in Map 1 and the school cafeteria inspection data of Map 2.
+This map, in particular, combines both the Basemap found in Map 1 and the school cafeteria inspection data of Map 2. It visualizes how basemaps and data layers can work together to find pattens in data within a geographical context. In this case, the geographic focus is on New York City and surrounding areas.
 
 ### Zoom Level
 
