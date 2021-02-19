@@ -44,7 +44,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 
 ### Explanation
 
-This map, in particular, combines both the Basemap found in Map 1 and the school cafeteria inspection data of Map 2. It visualizes how basemaps and data layers can work together to find pattens in data within a geographical context. In this case, the geographic focus is on New York City and surrounding areas.
+This map, in particular, combines both the Basemap found in Map 1 and the school cafeteria inspection data of Map 2. It visualizes how basemaps and data layers can work together to find patterns in data within a geographical context. In this case, the geographic focus is on New York City and surrounding areas.
 
 ### Zoom Level
 
