@@ -1,4 +1,4 @@
-# Visualizations of New York City and surrounding New York Boroughs
+# Visualizations of New York City and Surrounding New York Boroughs
 
 
 ## Interactive Map Link
