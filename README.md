@@ -18,7 +18,7 @@ The area of focus is New York City and surrounding areas.
 
 ### Zoom Level
 
-The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas.
+The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas. The default zoom level is 12.
 
 ## Map 2. School Cafeteria Inspection Data
 
@@ -36,7 +36,7 @@ The area of focus is New York City and surrounding areas.
 
 ### Zoom Level
 
-The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas.
+The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas. The default zoom level is 12.
 
 ## Map 3. School Cafeteria Inspection Data with Basemap
 
@@ -48,7 +48,7 @@ This map, in particular, combines both the Basemap found in Map 1 and the school
 
 ### Zoom Level
 
-The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas.
+The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas. The default zoom level is 12.
 
 ## Map 4. Special Theme: Times Square Neon
 
@@ -62,7 +62,7 @@ The area of focus is New York City and surrounding areas.
 
 ### Zoom Level
 
-The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas.
+The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas. The default zoom level is 12.
 
 ## Folders 
 
