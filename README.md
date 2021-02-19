@@ -64,11 +64,12 @@ The area of focus is New York City and surrounding areas.
 
 The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas. The default zoom level is 12.
 
-## Folders 
+## Folders / Files 
 
 - img: Contains the screenshots of the maps
 - tiles_assets: Contains the tile images
 - tiles_html_files: Contains the html files of the tiles
+- index.html: Brings together all the basemap and thematic layer tiles into an interactive Leaflet map
 
 ## Acknowledgements
 
