@@ -8,7 +8,7 @@ https://bridgethaney.github.io/Map_Design_Tiles
 
 ## Map 1. Basemap
 
-<img src="imgs/Basemap.png" width="1000" height="600">
+<img src="img/Basemap.png" width="1000" height="600">
 
 ### Explanation
 
@@ -22,7 +22,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 
 ## Map 2. School Cafeteria Inspection Data
 
-<img src="imgs/School Cafeteria Inspection Data.png" width="1000" height="600">
+<img src="img/School Cafeteria Inspection Data.png" width="1000" height="600">
 
 ### Explanation
 
@@ -40,7 +40,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 
 ## Map 3. School Cafeteria Inspection Data with Basemap
 
-<img src="imgs/School Cafeteria Inspection Data Basemap.png" width="1000" height="600">
+<img src="img/School Cafeteria Inspection Data Basemap.png" width="1000" height="600">
 
 ### Explanation
 
@@ -52,7 +52,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 
 ## Map 4. Special Theme: Times Square Neon
 
-<img src="imgs/Neon Theme Times Square.png" width="1000" height="600">
+<img src="img/Neon Theme Times Square.png" width="1000" height="600">
 
 ### Explanation
 
