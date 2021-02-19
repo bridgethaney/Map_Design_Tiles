@@ -64,6 +64,10 @@ The area of focus is New York City and surrounding areas.
 
 The minimum zoom level is 11.5, while the maximum is 14. This ensures that there is enough detail given in the map without patterns of data or locations disappearing. The 11.5 shows the edge of where the tiles end so that the user can know the extent of the canvas.
 
+# Acknowledgement
+
+Used a snippet of code from cmulders on Github to remove white grid line bug that was visible on all browsers for the Map 4. Special Theme: Times Square Neon map. I am also using some snippets of code written by Bo Zhao for GEOG 458 Lab 4.
+
 # Sources
 
 Basemap and Theme Creation: [Mapbox](https://www.mapbox.com/)
@@ -71,3 +75,5 @@ Basemap and Theme Creation: [Mapbox](https://www.mapbox.com/)
 School Cafeteria Inspection Data: [NYC OpenData](data.cityofnewyork.us/Health/DOHMH-School-Cafeteria-inspections/9hxz-c2kj)
 
 Lab 4 - Tutorial and Snippets of Code: [GEOG 458 Lab 4](https://github.com/jakobzhao/geog458/tree/master/labs/lab04)
+
+White Grid Line Bug Removal: [cmulders](https://gist.github.com/cmulders/acbbe8a8ff170e34c37b)
