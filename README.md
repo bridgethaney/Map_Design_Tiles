@@ -52,7 +52,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 
 ## Map 4. Special Theme: Times Square Neon
 
-<img src="imgs/Neon Theme.png" width="1000" height="600">
+<img src="imgs/Neon Theme Times Square.png" width="1000" height="600">
 
 ### Explanation
 
