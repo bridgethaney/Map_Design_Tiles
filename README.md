@@ -56,7 +56,7 @@ The minimum zoom level is 11.5, while the maximum is 14. This ensures that there
 
 ### Explanation
 
-The theme depicted is meant to reflect the bright color scheme found within New York City's top tourist attraction, Times Square. It brings in the feeling of exploring the famous nightlife, including icons above each label that are Times Square themed. For instance, the drama masks are representative of Broadway, while the bridges can represent the known bridges that need to be used to cross into different parts of New York from New York City.
+The theme depicted is meant to reflect the bright color scheme found within New York City's top tourist attraction, Times Square. It brings in the feeling of exploring New York's famous nightlife, including icons above each label that are Times Square themed. For instance, the drama masks are representative of Broadway, while the bridges can represent the known bridges that need to be used to cross into different parts of New York from New York City.
 
 The area of focus is New York City and surrounding areas.
 
